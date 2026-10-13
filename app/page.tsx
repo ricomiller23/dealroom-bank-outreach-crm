@@ -145,6 +145,16 @@ export default function OutreachCRMPage() {
 
   const handleSendSingle = async (dispatchMethod: "api" | "gmail") => {
     if (!activeContact) return;
+
+    // Open Gmail composer synchronously so browser popup blocker does NOT intercept it!
+    if (dispatchMethod === "gmail") {
+      const encodedTo = encodeURIComponent(activeContact.email);
+      const encodedSubject = encodeURIComponent(customSubject);
+      const encodedBody = encodeURIComponent(customBody);
+      const gmailUrl = `https://mail.google.com/mail/?view=cm&fs=1&to=${encodedTo}&su=${encodedSubject}&body=${encodedBody}`;
+      window.open(gmailUrl, "_blank");
+    }
+
     setSendingSingle(true);
     try {
       const res = await fetch("/api/send", {
@@ -162,10 +172,6 @@ export default function OutreachCRMPage() {
       const data = await res.json();
       if (!res.ok) {
         throw new Error(data.error || "Failed to dispatch email");
-      }
-
-      if (dispatchMethod === "gmail" && data.result?.gmailUrl) {
-        window.open(data.result.gmailUrl, "_blank");
       }
 
       await loadData();
@@ -790,35 +796,50 @@ export default function OutreachCRMPage() {
               </div>
             </div>
 
+            {/* Dispatch Method Guidance */}
+            <div className="mx-6 mb-2 p-3 bg-slate-900 border border-slate-800 rounded-xl text-xs space-y-1">
+              <div className="flex items-center gap-1.5 font-bold text-slate-200">
+                <Mail className="w-3.5 h-3.5 text-red-400" />
+                <span>Sending from ricomiller@gmail.com</span>
+              </div>
+              <p className="text-slate-400 text-[11px] leading-relaxed">
+                • <strong>In Browser:</strong> Click <span className="text-red-400 font-semibold">"Open in Gmail Web"</span> to review and send from your Gmail account with 1 click.<br/>
+                • <strong>Automated Batch:</strong> Run <code className="bg-slate-950 px-1 py-0.5 rounded text-amber-300 font-mono text-[10px]">LIVE_SEND=1 npm run dispatch:mac</code> on your Mac to transmit via Apple Mail automatically.
+              </p>
+            </div>
+
             {/* Drawer Footer Actions */}
-            <div className="p-4 border-t border-slate-800 bg-slate-950 flex flex-wrap items-center justify-end gap-2.5">
+            <div className="p-4 border-t border-slate-800 bg-slate-950 flex flex-wrap items-center justify-between gap-2.5">
               <button
                 type="button"
                 onClick={() => setDrawerOpen(false)}
-                className="px-4 py-2 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-300 font-bold text-xs"
+                className="px-3.5 py-2 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-300 font-semibold text-xs"
               >
                 Close
               </button>
 
-              <button
-                type="button"
-                disabled={sendingSingle || !activeContact.email}
-                onClick={() => handleSendSingle("gmail")}
-                className="px-4 py-2 rounded-xl bg-amber-600 hover:bg-amber-500 text-white font-bold text-xs inline-flex items-center gap-1.5 shadow-sm"
-              >
-                <Mail className="w-3.5 h-3.5" />
-                Dispatch via Gmail (Web)
-              </button>
+              <div className="flex items-center gap-2">
+                <button
+                  type="button"
+                  disabled={sendingSingle || !activeContact.email}
+                  onClick={() => handleSendSingle("api")}
+                  className="px-3 py-2 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-300 font-medium text-xs inline-flex items-center gap-1.5 transition-all"
+                  title="Marks touch as sent in CRM database without sending an email"
+                >
+                  <CheckCircle2 className="w-3.5 h-3.5 text-slate-400" />
+                  {sendingSingle ? "Logging..." : "Log Offline Touch"}
+                </button>
 
-              <button
-                type="button"
-                disabled={sendingSingle || !activeContact.email}
-                onClick={() => handleSendSingle("api")}
-                className="px-4 py-2 rounded-xl bg-blue-600 hover:bg-blue-500 text-white font-bold text-xs inline-flex items-center gap-1.5 shadow-md shadow-blue-600/30"
-              >
-                <Send className="w-3.5 h-3.5" />
-                {sendingSingle ? "Recording..." : "Record Live Send"}
-              </button>
+                <button
+                  type="button"
+                  disabled={sendingSingle || !activeContact.email}
+                  onClick={() => handleSendSingle("gmail")}
+                  className="px-4 py-2 rounded-xl bg-red-600 hover:bg-red-500 text-white font-bold text-xs inline-flex items-center gap-1.5 shadow-md shadow-red-600/30 transition-all cursor-pointer"
+                >
+                  <Mail className="w-3.5 h-3.5" />
+                  Open in Gmail Web (Send)
+                </button>
+              </div>
             </div>
           </div>
         </div>
