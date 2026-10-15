@@ -15,7 +15,7 @@
       "linkedin": "",
       "howToReach": "Email (public business email)",
       "wave": "Wave 1",
-      "status": "ready",
+      "status": "sent",
       "demoLink": "https://dealroom-banks-v2.vercel.app/?ref=DN-276&fn=Mary&bk=BankMiami",
       "subject": "A capital-raise room for BankMiami's next round",
       "body": "Hi Mary,\n\nBankMiami has been serving Coral Gables, FL since 2025. Banks in their first few years are managing to the capital plan they were approved on, so any follow-on raise has to be organized carefully and documented cleanly.\n\nWhether the next round is a private placement, an offering to existing shareholders or growth capital, the work lands on a few people: tracking every prospect, keeping the wire ledger straight, controlling who sees the offering documents, and flagging anyone near 10% ownership. I built a sandbox that does exactly that, so you can see what it would look like for BankMiami.\n\nYou can try it here, with no signup: https://dealroom-banks-v2.vercel.app/?ref=DN-276&fn=Mary&bk=BankMiami\n\nIt opens on a fictional bank with sample investors. One click loads BankMiami's name into a blank pipeline so you can add your own. Nothing you enter leaves your browser.\n\nWould 15 minutes be worth it to walk through how BankMiami might use it?\n\nEric Miller\nDealRoom OS · ricomiller@gmail.com\nDealRoom OS Capital Formation • 7135 E Camelback Rd, Scottsdale, AZ 85251\nIf this isn't relevant, reply \"unsubscribe\" and I won't write again.",
@@ -25,9 +25,17 @@
       "lastOpenedAt": null,
       "clickCount": 0,
       "lastClickedAt": null,
-      "sentAt": null,
-      "sentCount": 0,
-      "history": []
+      "sentAt": "2026-10-15T16:18:16.788Z",
+      "sentCount": 1,
+      "history": [
+        {
+          "id": "evt-apple-2a5fej8",
+          "type": "email_sent",
+          "subject": "A capital-raise room for BankMiami's next round",
+          "timestamp": "2026-10-15T16:18:16.788Z",
+          "details": "Dispatched to Mary.Usategui@BankMiami.com via Apple Mail (ricomiller@gmail.com)"
+        }
+      ]
     },
     {
       "id": "DN-280",
@@ -44,7 +52,7 @@
       "linkedin": "",
       "howToReach": "Email (public business email)",
       "wave": "Wave 1",
-      "status": "ready",
+      "status": "sent",
       "demoLink": "https://dealroom-banks-v2.vercel.app/?ref=DN-280&fn=Justine&bk=BankMiami",
       "subject": "One ledger for BankMiami's capital raise",
       "body": "Hi Justine,\n\nBankMiami has been serving Coral Gables, FL since 2025. Banks in their first few years are managing to the capital plan they were approved on, so any follow-on raise has to be organized carefully and documented cleanly.\n\nThe hard part of a raise for a finance team is keeping one number: commitments, soft circles, cleared wires, escrow progress and the cap table all agreeing. In this sandbox every page reads from a single ledger, and the dilution calculator shows shares, ownership and day-one book value dilution after offering costs.\n\nYou can try it here, with no signup: https://dealroom-banks-v2.vercel.app/?ref=DN-280&fn=Justine&bk=BankMiami\n\nIt opens on a fictional bank with sample investors. One click loads BankMiami's name into a blank pipeline so you can add your own. Nothing you enter leaves your browser.\n\nWould 15 minutes be worth it to walk through how BankMiami might use it?\n\nEric Miller\nDealRoom OS · ricomiller@gmail.com\nDealRoom OS Capital Formation • 7135 E Camelback Rd, Scottsdale, AZ 85251\nIf this isn't relevant, reply \"unsubscribe\" and I won't write again.",
@@ -54,9 +62,17 @@
       "lastOpenedAt": null,
       "clickCount": 0,
       "lastClickedAt": null,
-      "sentAt": null,
-      "sentCount": 0,
-      "history": []
+      "sentAt": "2026-10-15T16:18:22.505Z",
+      "sentCount": 1,
+      "history": [
+        {
+          "id": "evt-apple-at5ghmb",
+          "type": "email_sent",
+          "subject": "One ledger for BankMiami's capital raise",
+          "timestamp": "2026-10-15T16:18:22.505Z",
+          "details": "Dispatched to Justine.Durham@BankMiami.com via Apple Mail (ricomiller@gmail.com)"
+        }
+      ]
     },
     {
       "id": "DN-270",
@@ -73,7 +89,7 @@
       "linkedin": "",
       "howToReach": "Email (public business email)",
       "wave": "Wave 1",
-      "status": "ready",
+      "status": "sent",
       "demoLink": "https://dealroom-banks-v2.vercel.app/?ref=DN-270&fn=Ilaria&bk=Fortuna%20Bank",
       "subject": "A capital-raise room for Fortuna Bank's next round",
       "body": "Hi Ilaria,\n\nFortuna Bank has been serving Grandview Heights, OH since 2024. Banks in their first few years are managing to the capital plan they were approved on, so any follow-on raise has to be organized carefully and documented cleanly.\n\nWhether the next round is a private placement, an offering to existing shareholders or growth capital, the work lands on a few people: tracking every prospect, keeping the wire ledger straight, controlling who sees the offering documents, and flagging anyone near 10% ownership. I built a sandbox that does exactly that, so you can see what it would look like for Fortuna Bank.\n\nYou can try it here, with no signup: https://dealroom-banks-v2.vercel.app/?ref=DN-270&fn=Ilaria&bk=Fortuna%20Bank\n\nIt opens on a fictional bank with sample investors. One click loads Fortuna Bank's name into a blank pipeline so you can add your own. Nothing you enter leaves your browser.\n\nWould 15 minutes be worth it to walk through how Fortuna Bank might use it?\n\nEric Miller\nDealRoom OS · ricomiller@gmail.com\nDealRoom OS Capital Formation • 7135 E Camelback Rd, Scottsdale, AZ 85251\nIf this isn't relevant, reply \"unsubscribe\" and I won't write again.",
@@ -83,9 +99,17 @@
       "lastOpenedAt": null,
       "clickCount": 0,
       "lastClickedAt": null,
-      "sentAt": null,
-      "sentCount": 0,
-      "history": []
+      "sentAt": "2026-10-15T16:18:28.192Z",
+      "sentCount": 1,
+      "history": [
+        {
+          "id": "evt-apple-92i6vu8",
+          "type": "email_sent",
+          "subject": "A capital-raise room for Fortuna Bank's next round",
+          "timestamp": "2026-10-15T16:18:28.192Z",
+          "details": "Dispatched to irawlins@fortunabank.com via Apple Mail (ricomiller@gmail.com)"
+        }
+      ]
     },
     {
       "id": "DN-271",
@@ -102,7 +126,7 @@
       "linkedin": "",
       "howToReach": "Email (public business email)",
       "wave": "Wave 1",
-      "status": "ready",
+      "status": "sent",
       "demoLink": "https://dealroom-banks-v2.vercel.app/?ref=DN-271&fn=Tom&bk=Fortuna%20Bank",
       "subject": "One ledger for Fortuna Bank's capital raise",
       "body": "Hi Tom,\n\nFortuna Bank has been serving Grandview Heights, OH since 2024. Banks in their first few years are managing to the capital plan they were approved on, so any follow-on raise has to be organized carefully and documented cleanly.\n\nThe hard part of a raise for a finance team is keeping one number: commitments, soft circles, cleared wires, escrow progress and the cap table all agreeing. In this sandbox every page reads from a single ledger, and the dilution calculator shows shares, ownership and day-one book value dilution after offering costs.\n\nYou can try it here, with no signup: https://dealroom-banks-v2.vercel.app/?ref=DN-271&fn=Tom&bk=Fortuna%20Bank\n\nIt opens on a fictional bank with sample investors. One click loads Fortuna Bank's name into a blank pipeline so you can add your own. Nothing you enter leaves your browser.\n\nWould 15 minutes be worth it to walk through how Fortuna Bank might use it?\n\nEric Miller\nDealRoom OS · ricomiller@gmail.com\nDealRoom OS Capital Formation • 7135 E Camelback Rd, Scottsdale, AZ 85251\nIf this isn't relevant, reply \"unsubscribe\" and I won't write again.",
@@ -112,9 +136,17 @@
       "lastOpenedAt": null,
       "clickCount": 0,
       "lastClickedAt": null,
-      "sentAt": null,
-      "sentCount": 0,
-      "history": []
+      "sentAt": "2026-10-15T16:18:33.708Z",
+      "sentCount": 1,
+      "history": [
+        {
+          "id": "evt-apple-ggr04um",
+          "type": "email_sent",
+          "subject": "One ledger for Fortuna Bank's capital raise",
+          "timestamp": "2026-10-15T16:18:33.708Z",
+          "details": "Dispatched to trubadue@fortunabank.com via Apple Mail (ricomiller@gmail.com)"
+        }
+      ]
     },
     {
       "id": "DN-275",
@@ -131,7 +163,7 @@
       "linkedin": "",
       "howToReach": "Email (public business email)",
       "wave": "Wave 1",
-      "status": "ready",
+      "status": "sent",
       "demoLink": "https://dealroom-banks-v2.vercel.app/?ref=DN-275&fn=Carl&bk=Gala%20Bank",
       "subject": "A capital-raise room for Gala Bank's next round",
       "body": "Hi Carl,\n\nGala Bank has been serving Ocala, FL since 2024. Banks in their first few years are managing to the capital plan they were approved on, so any follow-on raise has to be organized carefully and documented cleanly.\n\nWhether the next round is a private placement, an offering to existing shareholders or growth capital, the work lands on a few people: tracking every prospect, keeping the wire ledger straight, controlling who sees the offering documents, and flagging anyone near 10% ownership. I built a sandbox that does exactly that, so you can see what it would look like for Gala Bank.\n\nYou can try it here, with no signup: https://dealroom-banks-v2.vercel.app/?ref=DN-275&fn=Carl&bk=Gala%20Bank\n\nIt opens on a fictional bank with sample investors. One click loads Gala Bank's name into a blank pipeline so you can add your own. Nothing you enter leaves your browser.\n\nWould 15 minutes be worth it to walk through how Gala Bank might use it?\n\nEric Miller\nDealRoom OS · ricomiller@gmail.com\nDealRoom OS Capital Formation • 7135 E Camelback Rd, Scottsdale, AZ 85251\nIf this isn't relevant, reply \"unsubscribe\" and I won't write again.",
@@ -141,9 +173,17 @@
       "lastOpenedAt": null,
       "clickCount": 0,
       "lastClickedAt": null,
-      "sentAt": null,
-      "sentCount": 0,
-      "history": []
+      "sentAt": "2026-10-15T16:18:39.270Z",
+      "sentCount": 1,
+      "history": [
+        {
+          "id": "evt-apple-kkhkq1b",
+          "type": "email_sent",
+          "subject": "A capital-raise room for Gala Bank's next round",
+          "timestamp": "2026-10-15T16:18:39.270Z",
+          "details": "Dispatched to cwalls@mybankfl.com via Apple Mail (ricomiller@gmail.com)"
+        }
+      ]
     },
     {
       "id": "DN-266",
@@ -218,7 +258,7 @@
       "linkedin": "",
       "howToReach": "Email (public business email)",
       "wave": "Wave 1",
-      "status": "ready",
+      "status": "sent",
       "demoLink": "https://dealroom-banks-v2.vercel.app/?ref=DN-067&fn=Randy&bk=American%20Bank",
       "subject": "A capital-raise room for American Bank's next round",
       "body": "Hi Randy,\n\nAmerican Bank has been serving Monroe, NC since 2019. Banks at this stage are usually raising to fund growth, most often from existing shareholders and local business owners rather than outside funds.\n\nWhether the next round is a private placement, an offering to existing shareholders or growth capital, the work lands on a few people: tracking every prospect, keeping the wire ledger straight, controlling who sees the offering documents, and flagging anyone near 10% ownership. I built a sandbox that does exactly that, so you can see what it would look like for American Bank.\n\nYou can try it here, with no signup: https://dealroom-banks-v2.vercel.app/?ref=DN-067&fn=Randy&bk=American%20Bank\n\nIt opens on a fictional bank with sample investors. One click loads American Bank's name into a blank pipeline so you can add your own. Nothing you enter leaves your browser.\n\nWould 15 minutes be worth it to walk through how American Bank might use it?\n\nEric Miller\nDealRoom OS · ricomiller@gmail.com\nDealRoom OS Capital Formation • 7135 E Camelback Rd, Scottsdale, AZ 85251\nIf this isn't relevant, reply \"unsubscribe\" and I won't write again.",
@@ -228,9 +268,17 @@
       "lastOpenedAt": null,
       "clickCount": 0,
       "lastClickedAt": null,
-      "sentAt": null,
-      "sentCount": 0,
-      "history": []
+      "sentAt": "2026-10-15T16:18:44.824Z",
+      "sentCount": 1,
+      "history": [
+        {
+          "id": "evt-apple-i0jsa85",
+          "type": "email_sent",
+          "subject": "A capital-raise room for American Bank's next round",
+          "timestamp": "2026-10-15T16:18:44.824Z",
+          "details": "Dispatched to radcock@abc-nc.com via Apple Mail (ricomiller@gmail.com)"
+        }
+      ]
     },
     {
       "id": "DN-068",
@@ -247,7 +295,7 @@
       "linkedin": "",
       "howToReach": "Email (public business email)",
       "wave": "Wave 1",
-      "status": "ready",
+      "status": "sent",
       "demoLink": "https://dealroom-banks-v2.vercel.app/?ref=DN-068&fn=Jennifer&bk=American%20Bank",
       "subject": "One ledger for American Bank's capital raise",
       "body": "Hi Jennifer,\n\nAmerican Bank has been serving Monroe, NC since 2019. Banks at this stage are usually raising to fund growth, most often from existing shareholders and local business owners rather than outside funds.\n\nThe hard part of a raise for a finance team is keeping one number: commitments, soft circles, cleared wires, escrow progress and the cap table all agreeing. In this sandbox every page reads from a single ledger, and the dilution calculator shows shares, ownership and day-one book value dilution after offering costs.\n\nYou can try it here, with no signup: https://dealroom-banks-v2.vercel.app/?ref=DN-068&fn=Jennifer&bk=American%20Bank\n\nIt opens on a fictional bank with sample investors. One click loads American Bank's name into a blank pipeline so you can add your own. Nothing you enter leaves your browser.\n\nWould 15 minutes be worth it to walk through how American Bank might use it?\n\nEric Miller\nDealRoom OS · ricomiller@gmail.com\nDealRoom OS Capital Formation • 7135 E Camelback Rd, Scottsdale, AZ 85251\nIf this isn't relevant, reply \"unsubscribe\" and I won't write again.",
@@ -257,9 +305,17 @@
       "lastOpenedAt": null,
       "clickCount": 0,
       "lastClickedAt": null,
-      "sentAt": null,
-      "sentCount": 0,
-      "history": []
+      "sentAt": "2026-10-15T16:18:50.407Z",
+      "sentCount": 1,
+      "history": [
+        {
+          "id": "evt-apple-zfpbpq1",
+          "type": "email_sent",
+          "subject": "One ledger for American Bank's capital raise",
+          "timestamp": "2026-10-15T16:18:50.407Z",
+          "details": "Dispatched to jharris@abc-nc.com via Apple Mail (ricomiller@gmail.com)"
+        }
+      ]
     },
     {
       "id": "DN-277",
@@ -276,7 +332,7 @@
       "linkedin": "",
       "howToReach": "Email (public business email)",
       "wave": "Wave 1",
-      "status": "ready",
+      "status": "sent",
       "demoLink": "https://dealroom-banks-v2.vercel.app/?ref=DN-277&fn=Daniel&bk=BankMiami",
       "subject": "Turn BankMiami's customer relationships into a tracked raise",
       "body": "Hi Daniel,\n\nBankMiami has been serving Coral Gables, FL since 2025. Banks in their first few years are managing to the capital plan they were approved on, so any follow-on raise has to be organized carefully and documented cleanly.\n\nIn a community bank, many of the best prospects for a capital raise are the business owners you already know. This sandbox is an investor CRM built for that: prospect, fund or company, target check, accreditation status and stage, on a drag-and-drop pipeline from Lead to Funded.\n\nYou can try it here, with no signup: https://dealroom-banks-v2.vercel.app/?ref=DN-277&fn=Daniel&bk=BankMiami\n\nIt opens on a fictional bank with sample investors. One click loads BankMiami's name into a blank pipeline so you can add your own. Nothing you enter leaves your browser.\n\nWould 15 minutes be worth it to walk through how BankMiami might use it?\n\nEric Miller\nDealRoom OS · ricomiller@gmail.com\nDealRoom OS Capital Formation • 7135 E Camelback Rd, Scottsdale, AZ 85251\nIf this isn't relevant, reply \"unsubscribe\" and I won't write again.",
@@ -286,9 +342,17 @@
       "lastOpenedAt": null,
       "clickCount": 0,
       "lastClickedAt": null,
-      "sentAt": null,
-      "sentCount": 0,
-      "history": []
+      "sentAt": "2026-10-15T16:18:55.957Z",
+      "sentCount": 1,
+      "history": [
+        {
+          "id": "evt-apple-mh6ekra",
+          "type": "email_sent",
+          "subject": "Turn BankMiami's customer relationships into a tracked raise",
+          "timestamp": "2026-10-15T16:18:55.957Z",
+          "details": "Dispatched to Daniel.Martinez@BankMiami.com via Apple Mail (ricomiller@gmail.com)"
+        }
+      ]
     },
     {
       "id": "DN-278",
@@ -305,7 +369,7 @@
       "linkedin": "",
       "howToReach": "Email (public business email)",
       "wave": "Wave 1",
-      "status": "ready",
+      "status": "sent",
       "demoLink": "https://dealroom-banks-v2.vercel.app/?ref=DN-278&fn=David&bk=BankMiami",
       "subject": "Less paperwork chasing for BankMiami's capital raise",
       "body": "Hi David,\n\nBankMiami has been serving Coral Gables, FL since 2025. Banks in their first few years are managing to the capital plan they were approved on, so any follow-on raise has to be organized carefully and documented cleanly.\n\nA raise creates a lot of moving parts: who has the documents, who signed, who wired, who is still waiting. This sandbox puts the pipeline, the investment ledger, the document vault and an activity log in one place, with a tracked link for each investor.\n\nYou can try it here, with no signup: https://dealroom-banks-v2.vercel.app/?ref=DN-278&fn=David&bk=BankMiami\n\nIt opens on a fictional bank with sample investors. One click loads BankMiami's name into a blank pipeline so you can add your own. Nothing you enter leaves your browser.\n\nWould 15 minutes be worth it to walk through how BankMiami might use it?\n\nEric Miller\nDealRoom OS · ricomiller@gmail.com\nDealRoom OS Capital Formation • 7135 E Camelback Rd, Scottsdale, AZ 85251\nIf this isn't relevant, reply \"unsubscribe\" and I won't write again.",
@@ -315,9 +379,17 @@
       "lastOpenedAt": null,
       "clickCount": 0,
       "lastClickedAt": null,
-      "sentAt": null,
-      "sentCount": 0,
-      "history": []
+      "sentAt": "2026-10-15T16:19:01.505Z",
+      "sentCount": 1,
+      "history": [
+        {
+          "id": "evt-apple-o5byaf4",
+          "type": "email_sent",
+          "subject": "Less paperwork chasing for BankMiami's capital raise",
+          "timestamp": "2026-10-15T16:19:01.505Z",
+          "details": "Dispatched to David.Monter@BankMiami.com via Apple Mail (ricomiller@gmail.com)"
+        }
+      ]
     },
     {
       "id": "DN-279",
@@ -334,7 +406,7 @@
       "linkedin": "",
       "howToReach": "Email (public business email)",
       "wave": "Wave 1",
-      "status": "ready",
+      "status": "sent",
       "demoLink": "https://dealroom-banks-v2.vercel.app/?ref=DN-279&fn=Robert&bk=BankMiami",
       "subject": "Turn BankMiami's customer relationships into a tracked raise",
       "body": "Hi Robert,\n\nBankMiami has been serving Coral Gables, FL since 2025. Banks in their first few years are managing to the capital plan they were approved on, so any follow-on raise has to be organized carefully and documented cleanly.\n\nIn a community bank, many of the best prospects for a capital raise are the business owners you already know. This sandbox is an investor CRM built for that: prospect, fund or company, target check, accreditation status and stage, on a drag-and-drop pipeline from Lead to Funded.\n\nYou can try it here, with no signup: https://dealroom-banks-v2.vercel.app/?ref=DN-279&fn=Robert&bk=BankMiami\n\nIt opens on a fictional bank with sample investors. One click loads BankMiami's name into a blank pipeline so you can add your own. Nothing you enter leaves your browser.\n\nWould 15 minutes be worth it to walk through how BankMiami might use it?\n\nEric Miller\nDealRoom OS · ricomiller@gmail.com\nDealRoom OS Capital Formation • 7135 E Camelback Rd, Scottsdale, AZ 85251\nIf this isn't relevant, reply \"unsubscribe\" and I won't write again.",
@@ -344,9 +416,17 @@
       "lastOpenedAt": null,
       "clickCount": 0,
       "lastClickedAt": null,
-      "sentAt": null,
-      "sentCount": 0,
-      "history": []
+      "sentAt": "2026-10-15T16:19:07.037Z",
+      "sentCount": 1,
+      "history": [
+        {
+          "id": "evt-apple-ns0qlbw",
+          "type": "email_sent",
+          "subject": "Turn BankMiami's customer relationships into a tracked raise",
+          "timestamp": "2026-10-15T16:19:07.037Z",
+          "details": "Dispatched to Robert.Regolizio@BankMiami.com via Apple Mail (ricomiller@gmail.com)"
+        }
+      ]
     },
     {
       "id": "DN-236",
@@ -9252,15 +9332,5 @@
       "history": []
     }
   ],
-  "settings": {
-    "senderEmail": "ricomiller@gmail.com",
-    "senderName": "Eric Miller",
-    "senderCompany": "DealRoom OS",
-    "senderAddress": "DealRoom OS Capital Formation • 7135 E Camelback Rd, Scottsdale, AZ 85251",
-    "dailySendLimit": 25,
-    "cooldownDays": 30,
-    "delayBetweenEmailsMs": 2000,
-    "trackingBaseUrl": "https://dealroom-bank-outreach-crm.vercel.app"
-  },
-  "updatedAt": "2026-10-13T21:37:14.285Z"
+  "updatedAt": "2026-10-15T16:19:07.187Z"
 }

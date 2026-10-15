@@ -1,0 +1,96 @@
+{
+  "updatedAt": "2026-10-15T16:19:07.192Z",
+  "totalDispatchedRecipients": 10,
+  "recipients": {
+    "mary.usategui@bankmiami.com": {
+      "email": "mary.usategui@bankmiami.com",
+      "name": "Mary B. Usategui",
+      "bank": "BankMiami",
+      "title": "Founder, President & CEO",
+      "lastSent": "2026-10-15",
+      "timestamp": "2026-10-15T16:18:16.788Z",
+      "subject": "A capital-raise room for BankMiami's next round"
+    },
+    "justine.durham@bankmiami.com": {
+      "email": "justine.durham@bankmiami.com",
+      "name": "Justine Durham",
+      "bank": "BankMiami",
+      "title": "EVP, CFO",
+      "lastSent": "2026-10-15",
+      "timestamp": "2026-10-15T16:18:22.505Z",
+      "subject": "One ledger for BankMiami's capital raise"
+    },
+    "irawlins@fortunabank.com": {
+      "email": "irawlins@fortunabank.com",
+      "name": "Ilaria Rawlins",
+      "bank": "Fortuna Bank",
+      "title": "Founder, President & CEO",
+      "lastSent": "2026-10-15",
+      "timestamp": "2026-10-15T16:18:28.192Z",
+      "subject": "A capital-raise room for Fortuna Bank's next round"
+    },
+    "trubadue@fortunabank.com": {
+      "email": "trubadue@fortunabank.com",
+      "name": "Tom Rubadue",
+      "bank": "Fortuna Bank",
+      "title": "Chief Financial Officer",
+      "lastSent": "2026-10-15",
+      "timestamp": "2026-10-15T16:18:33.708Z",
+      "subject": "One ledger for Fortuna Bank's capital raise"
+    },
+    "cwalls@mybankfl.com": {
+      "email": "cwalls@mybankfl.com",
+      "name": "Carl Walls",
+      "bank": "Gala Bank",
+      "title": "President & CEO",
+      "lastSent": "2026-10-15",
+      "timestamp": "2026-10-15T16:18:39.270Z",
+      "subject": "A capital-raise room for Gala Bank's next round"
+    },
+    "radcock@abc-nc.com": {
+      "email": "radcock@abc-nc.com",
+      "name": "Randy Adcock",
+      "bank": "American Bank",
+      "title": "President & CEO",
+      "lastSent": "2026-10-15",
+      "timestamp": "2026-10-15T16:18:44.824Z",
+      "subject": "A capital-raise room for American Bank's next round"
+    },
+    "jharris@abc-nc.com": {
+      "email": "jharris@abc-nc.com",
+      "name": "Jennifer Harris",
+      "bank": "American Bank",
+      "title": "Chief Financial Officer",
+      "lastSent": "2026-10-15",
+      "timestamp": "2026-10-15T16:18:50.407Z",
+      "subject": "One ledger for American Bank's capital raise"
+    },
+    "daniel.martinez@bankmiami.com": {
+      "email": "daniel.martinez@bankmiami.com",
+      "name": "Daniel R. Martinez",
+      "bank": "BankMiami",
+      "title": "EVP, Chief Banking Officer",
+      "lastSent": "2026-10-15",
+      "timestamp": "2026-10-15T16:18:55.957Z",
+      "subject": "Turn BankMiami's customer relationships into a tracked raise"
+    },
+    "david.monter@bankmiami.com": {
+      "email": "david.monter@bankmiami.com",
+      "name": "David Monter",
+      "bank": "BankMiami",
+      "title": "EVP, COO",
+      "lastSent": "2026-10-15",
+      "timestamp": "2026-10-15T16:19:01.505Z",
+      "subject": "Less paperwork chasing for BankMiami's capital raise"
+    },
+    "robert.regolizio@bankmiami.com": {
+      "email": "robert.regolizio@bankmiami.com",
+      "name": "Robert C. Regolizio",
+      "bank": "BankMiami",
+      "title": "EVP, Chief Credit Officer",
+      "lastSent": "2026-10-15",
+      "timestamp": "2026-10-15T16:19:07.037Z",
+      "subject": "Turn BankMiami's customer relationships into a tracked raise"
+    }
+  }
+}

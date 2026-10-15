@@ -7,9 +7,11 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "dispatch:mac": "node scripts/mac-mail-dispatch.mjs",
+    "dispatch:mac": "node scripts/master_daily_bank_outreach_orchestrator.mjs",
     "test": "node --test tests/outreach-crm.test.mjs",
-    "prebuild": "node --test tests/outreach-crm.test.mjs"
+    "prebuild": "node --test tests/outreach-crm.test.mjs",
+    "dispatch:live": "node scripts/master_daily_bank_outreach_orchestrator.mjs --execute",
+    "dispatch:25": "node scripts/master_daily_bank_outreach_orchestrator.mjs --execute --batch 25"
   },
   "dependencies": {
     "lucide-react": "^0.468.0",
